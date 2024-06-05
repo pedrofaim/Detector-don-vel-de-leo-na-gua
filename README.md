@@ -57,4 +57,5 @@ Este projeto visa simular a detecção de níveis de óleo na água utilizando u
    - Este projeto básico demonstra como usar um potenciômetro para simular a detecção de diferentes níveis de líquido.
 
 **Equipe responsável**
+
 Desenvolvido por Gabriel Guerreiro Escobosa Vallejo e Pedro Henrique Faim dos Santos.
