@@ -36,24 +36,25 @@ Este projeto visa simular a detecção de níveis de óleo na água utilizando u
    - Conecte o pino central do potenciômetro ao pino A0 do Arduino.
   
 4. **Simulação**
--Iniciar Simulação:
+ - Iniciar Simulação:
 
--No Tinkercad, clique em "Iniciar Simulação".
-Observar Valores:
+ - No Tinkercad, clique em "Iniciar Simulação".
+   Observar Valores:
 
--Abra o monitor serial para visualizar os valores lidos pelo Arduino.
--Ajuste o potenciômetro para simular a variação de níveis de óleo e água.
--As mensagens "Presença de Água", "Mistura de Água e Óleo" e "Presença de Óleo" aparecerão conforme os valores lidos.
--Explicação dos Intervalos
-0 a 340: Representa a presença de água.
-341 a 681: Representa uma mistura de água e óleo.
-682 a 1023: Representa a presença de óleo.
+ - Abra o monitor serial para visualizar os valores lidos pelo Arduino.
+ - Ajuste o potenciômetro para simular a variação de níveis de óleo e água.
+ - As mensagens "Presença de Água", "Mistura de Água e Óleo" e "Presença de Óleo" aparecerão conforme os valores lidos.
+ - Explicação dos Intervalos
+ 0 a 340: Representa a presença de água.
+ 341 a 681: Representa uma mistura de água e óleo.
+ 682 a 1023: Representa a presença de óleo.
 
 5. **Ajustes Futuros**
--Dependendo da precisão necessária e do comportamento real do sensor, você pode ajustar esses intervalos para melhor representar as condições reais de detecção de óleo e água. 
+ - Dependendo da precisão necessária e do comportamento real do sensor, você pode ajustar esses intervalos para melhor representar as condições reais de detecção de óleo e 
+   água. 
 
 6. **Conclusão**
--Este projeto básico demonstra como usar um potenciômetro para simular a detecção de diferentes níveis de líquido.
+ - Este projeto básico demonstra como usar um potenciômetro para simular a detecção de diferentes níveis de líquido.
 
 **Equipe responsável**
 Desenvolvido por Gabriel Guerreiro Escobosa Vallejo e Pedro Henrique Faim dos Santos.
