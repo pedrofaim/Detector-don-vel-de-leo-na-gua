@@ -58,4 +58,4 @@ Este projeto visa simular a detecção de níveis de óleo na água utilizando u
 
 **Equipe responsável**
 
-Desenvolvido por Gabriel Guerreiro Escobosa Vallejo e Pedro Henrique Faim dos Santos.
+Desenvolvido por Gabriel Guerreiro Escobosa Vallejo(RM554973) e Pedro Henrique Faim dos Santos(RM557440).
